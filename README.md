@@ -10,7 +10,7 @@ Rhiwbina Library Code Club and CoderDojo run on Saturdays in Rhiwbina. To attend
 [Paul's page, an example](https://github.com/Rhiwbina-Library-Code-Club/rhiwbinalibcodeclub.github.io/blob/main/paul.md)
 
 ### Example page..  
-[Example](https://github.com/Rhiwbina-Library-Code-Club/rhiwbinalibcodeclub.github.io/blob/docs/example.html)
+[Example](https://github.com/Rhiwbina-Library-Code-Club/rhiwbinalibcodeclub.github.io/blob/main/docs/example.html)
 
 
 ### Support 
