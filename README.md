@@ -6,6 +6,15 @@ As of 2 Oct 2021, this is a draft page to be used for learning about Git.
 
 Rhiwbina Library Code Club and CoderDojo run on Saturdays in Rhiwbina. To attend, please register at the [CoderDojo site](https://zen.coderdojo.com/dojos/gb/rhiwbina-cardiff/cardiff-rhiwbina-library) 
 
+At Code Club, we learn [Scratch](https://scratch.mit.edu/), Python and HTML, CSS and Javascript. 
+
+Vist Scratch Projects on Code Club pages:
+- [Module 1](https://projects.raspberrypi.org/en/codeclub/scratch-module-1)
+- [Module 2](https://projects.raspberrypi.org/en/codeclub/scratch-module-2)
+- [Module 3](https://projects.raspberrypi.org/en/codeclub/scratch-module-3)
+
+Here is the [Rhiwbina Library Code Club Scracth Showcase](https://scratch.mit.edu/studios/8380712/). 
+
 ### Some sample work 
 [Paul's page, an example](https://github.com/Rhiwbina-Library-Code-Club/rhiwbinalibcodeclub.github.io/blob/main/paul.md)
 
