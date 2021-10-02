@@ -16,10 +16,10 @@ Vist Scratch Projects on Code Club pages:
 Here is the [Rhiwbina Library Code Club Scracth Showcase](https://scratch.mit.edu/studios/8380712/). 
 
 ### Some sample work 
-[Paul's page, an example](https://github.com/Rhiwbina-Library-Code-Club/rhiwbinalibcodeclub.github.io/blob/main/paul.md)
+[Paul's page, an example](paul.md)
 
 ### Example page..  
-[Example](https://github.com/Rhiwbina-Library-Code-Club/rhiwbinalibcodeclub.github.io/blob/main/docs/example.html)
+[Example](docs/example.html)
 
 
 ### Support 
