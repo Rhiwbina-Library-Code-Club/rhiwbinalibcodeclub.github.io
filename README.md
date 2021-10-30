@@ -16,9 +16,9 @@ Here is the [Rhiwbina Library Code Club Scracth Showcase](https://scratch.mit.ed
 ### Some sample work 
 [Paul's page, an example](paul.md)
 
-### Example page..  
-[Example](docs/example.html)
-[Example_P](docs/example_P.html)
+### Example pages..  
+- [Example](docs/example.html)
+- [Example_P](docs/example_P.html)
 
 ### Support 
 Contact Paul Brennan for more information
